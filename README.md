@@ -29,7 +29,8 @@ Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 
 Deciphering is done in reverse, with a right shift of 3.
-# Setup
+# Setup\
+Download Python
 # App Setup
 # Author 
 David Kojo Kenyarko
